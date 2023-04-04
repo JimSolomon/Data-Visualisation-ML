@@ -1,4 +1,4 @@
-# Data-Visualisation
+# Data-Visualisation-ML
 ![png](https://github.com/JimSolomon/Data-Visualisation/blob/main/data-visualisation-python-setup.png)
 
 # Note:warning:: This project is licensed under the terms of the Mozilla Public License 2.0.
